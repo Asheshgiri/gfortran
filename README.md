@@ -1,1 +1,1 @@
-# gfortran
+# gfortran #bisection #Newtonsmethod
